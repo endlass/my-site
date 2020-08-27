@@ -14,7 +14,7 @@ spring:
       #基本属性
       url: jdbc:mysql://106.52.22.215:3306/mysite?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
       username: root
-      password: Admin_1234%
+      password: 123456
       #配置初始化大小/最小/最大
       initial-size: 1
       min-idle: 1
